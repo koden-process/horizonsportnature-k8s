@@ -1,0 +1,10 @@
+NameSpace: koden-clients
+AppName: horizonsportnature-db
+
+MariadbReplicas: 1
+MariadbImageTag: latest
+MariadbDiskSize: 5Gi
+MariadbServerId: 2
+MariadbDbName: horizonsportnature
+MariadbDbUser: horizonsportnature
+MariadbDbPort: 3306
