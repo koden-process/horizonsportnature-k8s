@@ -3,3 +3,5 @@ AppName: horizonsportnature-app
 
 HostName: horizonsportnature.net
 DiskSize: 10Gi
+
+DockerImage: killiankopp/amandine-7.4:241122
